@@ -72,3 +72,14 @@
     font-weight: 500;
     cursor: pointer;
 }
+
+.login-popup-link {
+    color: tomato;
+    cursor: pointer;
+    text-decoration: underline;
+    float: right;
+}
+
+.login-popup-link:hover {
+    opacity: 0.8;
+}
